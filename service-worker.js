@@ -1,9 +1,10 @@
 const CACHE_NAME = 'shinun-velemida-v1';
 const urlsToCache = [
-  '/',
-  '/index.html',
-  '/styles.css',
-  '/script.js',
+  './',
+  './index.html',
+  './manifest.json',
+  './icon-192x192.png',
+  './icon-512x512.png',
   'https://fonts.googleapis.com/css2?family=Assistant:wght@400;700&display=swap',
   'https://i.postimg.cc/1z4wp5xG/image.png',
   'https://www.soundjay.com/human/applause-01.mp3'
